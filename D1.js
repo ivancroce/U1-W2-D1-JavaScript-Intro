@@ -95,8 +95,9 @@ let x = 12;
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+myName = `Croce`;
 /* const myName = `Croce`; 
-Uncaught SyntaxError: Identifier 'myName' has already been declared (at D1.js:98:7) */
+Uncaught SyntaxError: Identifier 'myName' has already been declared (at D1.js:99:7) */
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
